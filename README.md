@@ -20,9 +20,13 @@ I love solving real-life problems using my skills, i have real experience in ful
 
 - I have been doing software engineering professionally for about 3 years+ now 🚀
 
+- Whats cool about me 🤔: I enjoy learning and basketball🤗
+
 - 📫 How to reach me **abdullahiadam.aa@gmail.com**
 
 - My goal for this year is to contribute more to **OpenSource Projects**
+
+- ⚡ Parts of the Great Wall of China were made with sticky rice.(not so great huh.. 😄)
 
 ## 👨‍💻 Languages and Tools
 
@@ -58,10 +62,14 @@ I love solving real-life problems using my skills, i have real experience in ful
 
 ## 🏆 Github Status
 
+<a href="https://github.com/ItztrippleA?tab=repositories">
 <img alt="Abdullahi Adams Github Stats" src="https://github-readme-stats.vercel.app/api?username=itztrippleA&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="45%" align="right"/>
+</a>
 
- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itztrippleA&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="45%" />
+<a href="https://github.com/ItztrippleA?tab=repositories">
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itztrippleA&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="45%" /></a>
 
-<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itztrippleA&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/>
+<a href="https://github.com/ItztrippleA?tab=repositories">
+<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itztrippleA&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
 
 <br>
