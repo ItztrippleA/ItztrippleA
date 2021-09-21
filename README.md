@@ -22,9 +22,9 @@ I love solving real-life problems using my skills, i have real experience in ful
 
 - Whats cool about me 🤔: I enjoy learning and basketball🤗
 
-- 📫 How to reach me **abdullahiadam.aa@gmail.com**
-
 - My goal for this year is to contribute more to **OpenSource Projects**
+
+- 📫 How to reach me **abdullahiadam.aa@gmail.com 📨**
 
 - ⚡ Parts of the Great Wall of China were made with sticky rice.(not so great huh.. 😄)
 
@@ -73,3 +73,13 @@ I love solving real-life problems using my skills, i have real experience in ful
 <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itztrippleA&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
 
 <br>
+<br>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/abdullahi-adam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/itztripple_a/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
