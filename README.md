@@ -46,9 +46,9 @@ I love solving real-life problems using my skills, i have real experience in ful
 
 <br>
 
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 <img src="https://img.icons8.com/color/48/000000/graphql.png"height="60" width="60"/>
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/fluency/48/000000/docker.png" height="60" width="60"/>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
