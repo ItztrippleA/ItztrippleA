@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi Amigo's,  I'm Adam Abdullahi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software Engineer and Web Developer ❤</h3>
+<h3 align="center">I'm a Software Engineer<br> Mobile and Web Developer ❤</h3>
 
 I love solving real-life problems using my skills, i have real experience in full stack project life cycle from elicitation, analysis, design and implementation, integration, deployment and maintenance of software projects
 
