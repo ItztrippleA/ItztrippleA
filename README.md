@@ -4,7 +4,8 @@
 
 <h3 align="center">I'm a Software Engineer<br> ❤Mobile and Web Development ❤</h3>
 
-I love solving real-life problems using my skills, i have real experience in full stack project life cycle from elicitation, analysis, design and implementation, integration, deployment and maintenance of software projects
+I love solving real-life problems using my skills, i have real experience in full stack project life cycle from elicitation, analysis, design and implementation, integration, deployment and maintenance of software projects.
+I've been coding for over 4 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.
 
 ## 🙋‍♂️ About Me
 
