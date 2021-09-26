@@ -19,8 +19,6 @@
 
 - 👨‍💻 Some of my projects are available at **[My Gitub Repo](https://github.com/ItztrippleA?tab=repositories)**
 
-- I have been doing software engineering professionally for about 3 years+ now 🚀
-
 - Whats cool about me 🤔: I enjoy learning and basketball🤗
 
 - My goal for this year is to contribute more to **OpenSource Projects**
