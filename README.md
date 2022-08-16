@@ -11,17 +11,15 @@
 
 - I have a background in Computer Science 💻:
 
-- 🔭 I’m currently working on **[Zam-Ecommerce Web and Mobile App in React and React-Native](git@github.com:ItztrippleA/Zam-Ecormerce-App.git)**
+- 🔭 I’m currently working on **[1automech Web and Mobile App in React and React-Native](https://1automech.com/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.** and **Flutter**,
+- 🌱 I’m currently sharpening my **Data Structures and Algorithms.** skills,
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Some of my projects are available at **[My Gitub Repo](https://github.com/ItztrippleA?tab=repositories)**
 
 - Whats cool about me 🤔: I enjoy learning and basketball🤗
-
-- My goal for this year is to contribute more to **OpenSource Projects**
 
 - 📫 How to reach me **abdullahiadam.aa@gmail.com 📨**
 
