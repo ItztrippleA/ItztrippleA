@@ -11,8 +11,6 @@
 
 - I have a background in Computer Science 💻(B-tech):
 
-- 🔭 I’m currently working on **[quickmechs Web and Mobile App in React and React-Native](https://quickmechs.com/home/mechanic-and-services/)**
-
 - 🌱 I’m currently sharpening my **Data Structures and Algorithms.** skills,
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
