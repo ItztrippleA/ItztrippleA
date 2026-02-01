@@ -33,6 +33,7 @@
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="70"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/nestjs.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/typescript.png" height="60" width="60"/>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60"/>
 <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" height="60" width="60"/>
@@ -47,6 +48,8 @@
 <img src="https://img.icons8.com/color/48/000000/graphql.png" height="60" width="60"/>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/fluency/48/000000/docker.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" height="60" width="60"/>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
