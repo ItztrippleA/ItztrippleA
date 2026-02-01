@@ -65,6 +65,6 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/abdullahi-adam/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://yourwebsite.com"><img src="https://img.icons8.com/fluent/48/000000/globe.png" alt="Website"/></a>
+<a href="https://trippleaconcepts.com"><img src="https://img.icons8.com/color/48/000000/globe--v1.png" alt="Website" height="48" width="48"/></a>
 
 </p>
